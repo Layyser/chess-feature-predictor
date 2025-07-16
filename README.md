@@ -92,7 +92,7 @@ weighted avg       0.90      0.89      0.89    117890
 - Use cross‑validation (k‑fold, stratified) to get more robust performance estimates
 
 ### 2. Build a more representative dataset
-- Aggregate PGN data over several months or years instead of a single month
+- Aggregate PGN data over several months or years instead of a single month to ensure diversity
 - Filter out anomalous or low‑quality games (e.g. abandonments, ultra‑short games)
 
 ### 3. Advanced feature engineering
