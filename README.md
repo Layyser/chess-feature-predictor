@@ -12,7 +12,7 @@ Small Python project to practice scikit-learn. It extracts features from chess p
   4. Train a Random Forest model
   5. Compare performance against a baseline predictor
 
-I personally selected Random Forest because it is a robust algorithm. I just wanted to practice the main concepts of the scikit-learn without digging too much into parameter hypertuning.
+I personally selected Random Forest because it is a robust algorithm. I just wanted to practice the main concepts of the scikit-learn library without digging too much into parameter hypertuning.
 
 
 ## Installation
